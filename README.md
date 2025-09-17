@@ -44,8 +44,8 @@ Here are some of my key projects (click on repo links to explore):
 ---
 
 ## 🔹 Connect with Me
-- **LinkedIn:** [linkedin.com/in/wilsont-aiiot](https://www.linkedin.com/in/heywilsont)  
-- **Instagram:** [instagram.com/wilson.ai](https://www.instagram.com/wixsoxt)  
+- **LinkedIn:** [linkedin.com/in/heywilsont](https://www.linkedin.com/in/heywilsont)  
+- **Instagram:** [instagram.com/wixsoxt](https://www.instagram.com/wixsoxt)  
 - **Email:** heywilsont@gmail.com 
 
 ---
