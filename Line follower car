@@ -14,4 +14,3 @@
  * - Software: Arduino IDE (C/C++)
  * - Setup: Upload the provided code to the Arduino Nano and connect the circuit as per the diagram.
  * - Optional: Adjust PID values in the code to improve turning and stability based on surface conditions.
- */
