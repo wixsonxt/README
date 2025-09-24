@@ -1,0 +1,17 @@
+/*
+ * Project Name: Line Follower Car using Arduino Nano
+ * Description: An autonomous robotic car that follows a black line on a white surface 
+ *              using an IR sensor array. The Arduino Nano processes sensor input and 
+ *              controls two DC motors through an L298N motor driver, implementing PID 
+ *              control for smooth navigation.
+ *
+ * Author: T.Wilson
+ * Created On: 01 feb 2025
+ *
+ * Notes:
+ * - Hardware Used: Arduino Nano, L298N Motor Driver, IR Sensor Array (6 sensors),
+ *                  DC Gear Motors, Li-ion Battery Pack, Boost & Buck Converters, LEDs, Push Buttons.
+ * - Software: Arduino IDE (C/C++)
+ * - Setup: Upload the provided code to the Arduino Nano and connect the circuit as per the diagram.
+ * - Optional: Adjust PID values in the code to improve turning and stability based on surface conditions.
+ */
