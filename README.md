@@ -29,7 +29,6 @@ Here are some of my key projects (click on repo links to explore):
    - Created responsive websites using **HTML, CSS, JavaScript, and MERN stack**.  
    - Focus: UI/UX, user-centric design, and scalability.  
 
-3. *(Add future projects here as you build more)*  
 
 ---
 
